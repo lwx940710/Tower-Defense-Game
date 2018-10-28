@@ -61,10 +61,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Bullet.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
+    <Compile Include="Assets\Scripts\Turret.cs" />
     <Compile Include="Assets\Scripts\WaveSpawner.cs" />
     <Compile Include="Assets\Scripts\Waypoints.cs" />
-    <Compile Include="Assets\Turret.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/UnityProjects/TowerDefenseGame/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
